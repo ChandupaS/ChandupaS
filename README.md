@@ -56,12 +56,9 @@ Spring Boot backend service for portfolio generation and management.
 - **Tech:** Java, Spring Boot, REST APIs
 - **Focus:** Backend development, API design
 
-### 5. **[IT24101444 WMT Project](https://github.com/ChandupaS/IT24101444_WMT)**
-Web-based project with live deployment on Vercel.
-- **Tech:** JavaScript, Web Development
-- **Status:** [Live Demo](https://it-24101444-wmt.vercel.app)
 
-### 6. **[Research Paper to Insights](https://github.com/ChandupaS/Reasearch_Paper-into-insights)**
+
+### 5. **[Research Paper to Insights](https://github.com/ChandupaS/Reasearch_Paper-into-insights)**
 Tool for extracting and analyzing insights from research papers.
 - **Focus:** Data analysis, research tools
 
